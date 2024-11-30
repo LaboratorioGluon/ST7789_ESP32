@@ -16,4 +16,4 @@ Compile and flash.
 
 If your display looks like the picture, you should lower your SPI speed in the `User_Setup.h` line 364, and uncomment a lower speed.
 
-![](doc/spi_too_fast_small.png)
+![](doc/spi_too_fast_small.jpg)
