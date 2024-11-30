@@ -15,4 +15,5 @@ Compile and flash.
 ### Display noisy
 
 If your display looks like the picture, you should lower your SPI speed in the `User_Setup.h` line 364, and uncomment a lower speed.
-![](doc/spi_too_fast.png| width=100)
+
+![](doc/spi_too_fast_small.png)
